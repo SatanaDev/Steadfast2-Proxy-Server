@@ -1,5 +1,5 @@
 <?php
 
-  echo 'I test huina';
+  echo 'Posla nahui syka';
 
 ?>
