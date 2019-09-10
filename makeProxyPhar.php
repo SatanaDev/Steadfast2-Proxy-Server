@@ -1,5 +1,6 @@
 <?php
 
+@define("zalupa", "pizda");
 @define("proxy\\PATH", getcwd() . DIRECTORY_SEPARATOR);
 
 $pharPath = "./proxy.phar";
