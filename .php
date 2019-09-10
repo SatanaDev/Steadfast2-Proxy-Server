@@ -1,1 +1,5 @@
-Hgggg
+<?php
+
+  echo 'I test huina';
+
+?>
